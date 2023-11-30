@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+/*Wijs de juiste kleuren toe aan de elementen. Er is gebruik gemaakt van de kleuren `#B36A5E` (tekst- en randkleur), `#EED7C5` (badge-kleur).*/
+
+
+img{
+    width: 300px;
+    border-radius: 50%;
+    border: 8px solid #B36A5E;
+    margin-bottom: 10px;
+}
+
+article {
+    display: inline-block;
+    background-color: #EED7C5;
+    border-radius: 8px;
+    padding: 32px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+}
+
+h2 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+    color: #B36A5E;
+}
+
